@@ -32,8 +32,8 @@ You did the heavy lifting in DESN 368. This is just a quick check to make sure e
 - [x] Prettier extension installed (recommended)
 
 ### 6. GitHub Pages
-- [ ] Enabled for this repo: Settings → Pages → Source: main branch
-- [ ] Tested: `https://yourusername.github.io/your-repo-name/`
+- [x] Enabled for this repo: Settings → Pages → Source: main branch
+- [x] Tested: `https://yourusername.github.io/your-repo-name/`
 
 ---
 
