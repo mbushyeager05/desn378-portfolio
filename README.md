@@ -34,7 +34,7 @@ Update this section each week with observations, breakthroughs, and questions.
 
 ## Quick Links
 
-- [My Profile](PROFILE.md)
+- [My Profile](https://github.com/mbushyeager05/desn378-portfolio/blob/main/PROFILE.md)
 - [Labs](labs/)
 
 ---
