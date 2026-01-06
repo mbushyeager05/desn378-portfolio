@@ -7,13 +7,13 @@ You did the heavy lifting in DESN 368. This is just a quick check to make sure e
 ## ✅ Quick Checklist
 
 ### 1. Repository Created
-- [ ] Used "Use this template" (not fork)
-- [ ] Renamed to something professional (e.g., `desn378-portfolio` or `yourname-378`)
-- [ ] Repository is **public**
+- [x] Used "Use this template" (not fork)
+- [x] Renamed to something professional (e.g., `desn378-portfolio` or `yourname-378`)
+- [x] Repository is **public**
 
 ### 2. Profile Consistency
-- [ ] Same **name** on GitHub, Figma, CodePen (First Last)
-- [ ] Same **profile photo** everywhere
+- [x] Same **name** on GitHub, Figma, CodePen (First Last)
+- [x] Same **profile photo** everywhere
 - [ ] [PROFILE.md](./PROFILE.md) updated with your links
 
 ### 3. GitHub Student Pack
