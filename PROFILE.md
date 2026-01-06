@@ -9,10 +9,10 @@ Update it once, keep it consistent everywhere.
 
 | Field | Value |
 |-------|-------|
-| **Name** | <!-- First Last --> |
-| **Preferred Name** | <!-- What should I call you? --> |
-| **Pronouns** | <!-- Optional --> |
-| **EWU Email** | <!-- @ewu.edu --> |
+| **Name** | Michael Bushyeager |
+| **Preferred Name** | Michael|
+| **Pronouns** | He/Him|
+| **EWU Email** | mbushyeager@ewu.edu |
 
 ---
 
@@ -22,18 +22,18 @@ Update it once, keep it consistent everywhere.
 
 | Platform | Profile URL | Status |
 |----------|-------------|--------|
-| **GitHub** | `https://github.com/________` | ⏳ |
-| **Figma** | `@________` | ⏳ |
-| **CodePen** | `https://codepen.io/________` | ⏳ |
+| **GitHub** | https://github.com/mbushyeager05/desn378-portfolio|
+| **Figma** | https://www.figma.com/@michaelbushyeag| 
+| **CodePen** | https://codepen.io/your-work |
 | **Portfolio** | *Coming Week 10* | 🔲 |
 
 ---
 
 ## Profile Photo
 
-- [ ] Same photo uploaded to GitHub, Figma, and CodePen
-- [ ] Professional or at least *intentional*
-- [ ] Face visible (helps me learn names!)
+- [x] Same photo uploaded to GitHub, Figma, and CodePen
+- [x] Professional or at least *intentional*
+- [x] Face visible (helps me learn names!)
 
 ---
 
@@ -41,9 +41,9 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Applied/Renewed | ⏳ |
-| Copilot Access | ⏳ |
-| Expires | <!-- Date --> |
+| Applied/Renewed | ✅ |
+| Copilot Access | ✅ |
+| Expires | I Pay for the Co-pilot|
 
 👉 [Check status or renew](https://education.github.com/pack)
 
@@ -53,9 +53,9 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Education Plan Active | ⏳ |
-| Joined Course Team | ⏳ |
-| Expires | <!-- Date --> |
+| Education Plan Active | ✅ |
+| Joined Course Team | ✅|
+| Expires | Can't Find|
 
 👉 [Check status](https://www.figma.com/settings) → Plan
 
@@ -63,7 +63,7 @@ Update it once, keep it consistent everywhere.
 
 ## About Me
 
-*Optional: A sentence or two about your design interests. This could seed your eventual portfolio bio.*
+I have a lot of design interest. My interst are alwyas changing and adapting. I'm reallly interested in taking modern and put a fun spin on it. This is the biggest design interst at the moment.
 
 <!-- 
 Example: "I'm drawn to motion design and systems thinking. 
