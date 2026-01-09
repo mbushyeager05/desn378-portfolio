@@ -20,7 +20,7 @@ console.log("Mac and Cheese")
 // --------------------------------------------
 // EXERCISE 3: LETTER TREE
 // The pattern: a, b c, d e f, g h i j, k
-// --------------------------------------------
+// -------------------------------------------
 console.log("   a ")
 console.log("  b c ")
 console.log(" d e f ")
