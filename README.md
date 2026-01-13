@@ -24,6 +24,9 @@ This is my workspace for **DESN 378 Code + Design 2** also known as **Web Design
 
 Update this section each week with observations, breakthroughs, and questions.
 
+### Week 0: The On-Ramp // DevTools, console, script linking
+
+
 ### Week 1: Systems That Respond
 *Coming soon...*
 
