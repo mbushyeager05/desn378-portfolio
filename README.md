@@ -1,7 +1,7 @@
 # DESN 378: Code + Design 2
 
 🔗 **[Learning Log](https://yourusername.github.io/this repo-name)**
-🔗 **[DESN368 Portfolio](https://mbushyeage  r05.github.io/DESN368-code-design-workspace/)** 
+🔗 **[DESN368 Portfolio](https://mbushyeager05.github.io/DESN368-code-design-workspace/)** 
 
 ---
 
