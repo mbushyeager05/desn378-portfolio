@@ -1,4 +1,3 @@
-
 // Still Confused on JavaScript. I had Claude help me with this part. I understand it a little bit better. But still need more practice.
 // ============================================
 // SECTION 1: Find Elements
@@ -29,6 +28,15 @@ const captions = [
 ];
 
 
+const imageFiles = [
+  'image-1.jpg',  
+  'image-2.jpg',
+  'image-3.jpg', 
+  'image-4.jpg',  
+  'image-5.jpg'   
+];
+
+
 // ============================================
 // SECTION 3: State Variable
 // ============================================
@@ -46,17 +54,8 @@ image.addEventListener('click', function() {
     
     title.textContent = titles[currentStep];
     caption.textContent = captions[currentStep];
-    
-    // Match actual image filenames in assets/images folder
-    const imageFiles = [
-      'image-1.jpg',
-      'image-2.jpg',
-      'image-3.jpg',
-      'image-4.jpg',
-      'image-5.jpg'
-    ];
-    
     image.src = `assets/images/${imageFiles[currentStep]}`;
+    
     updateProgressDots();
     
   } else {
@@ -80,4 +79,3 @@ function updateProgressDots() {
     }
   });
 }
-
