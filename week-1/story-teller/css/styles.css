@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chango&family=Fugaz+One&family=Lexend+Deca:wght@100..900&family=Outfit:wght@100..900&family=Story+Script&display=swap" rel="stylesheet">
+
 * {
   margin: 0;
   padding: 0;
@@ -5,7 +9,7 @@
 }
 
 body {
-  font-family: Georgia, serif;
+  background: #2A3439;
   padding: 2rem;
   min-height: 100vh;
   display: flex;
@@ -15,9 +19,26 @@ body {
   gap: 2rem;
 }
 
+h1 {
+  font-family: 'Fugaz One', cursive;
+  color: #333333;
+  font-size: 3.5rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
 
+p {
+  font-family: 'Lexend Deca', sans-serif;
+  color: #333333;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
 
 .story-layout {
+  background-color: #F5F5F5;
+  padding: 4rem;
+  border-radius: 16px;
   display: flex;
   gap: 3rem;
   max-width: 1200px;
@@ -44,9 +65,11 @@ body {
   box-shadow: 0 6px 30px rgba(0, 0, 0, 0.15);
 }
 
-
-.story-layout {
-  background-color: #F5F5F5
-  padding: 4rem;
-  border-radius: 16px;
+footer {
+  margin-top: auto;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 0.9rem;
 }
+
+
