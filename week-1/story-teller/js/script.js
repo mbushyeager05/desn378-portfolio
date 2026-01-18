@@ -54,7 +54,7 @@ image.addEventListener('click', function() {
     
     title.textContent = titles[currentStep];
     caption.textContent = captions[currentStep];
-    image.src = `assets/images/${imageFiles[currentStep]}`;
+      image.src = `assets/images/${imageFiles[currentStep]}`;
     
     updateProgressDots();
     
