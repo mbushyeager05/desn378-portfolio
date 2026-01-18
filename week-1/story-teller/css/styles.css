@@ -48,4 +48,5 @@ body {
 .story-layout {
   background-color: #F5F5F5
   padding: 4rem;
+  border-radius: 16px;
 }
