@@ -53,11 +53,13 @@ p {
 
 #story-images img {
   width: 100%;
+  max-width: 800px;  /* Fixed maximum width */
+  min-width: 800px;  /* Minimum width so it doesn't collapse */
   height: auto;
+  display: block;    /* Make sure it's not hidden */
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   cursor: pointer;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 #story-images img:hover {

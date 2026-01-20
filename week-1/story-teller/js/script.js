@@ -1,3 +1,17 @@
+console.log("Testing image paths...");
+console.log("Image 1:", "assets/images/image-1.jpg");
+console.log("Image 2:", "assets/images/image-2.jpg");
+console.log("Image 3:", "assets/images/image-3.jpg");
+console.log("Image 4:", "assets/images/image-4.jpg");
+console.log("Image 5:", "assets/images/image-5.jpg");
+
+// Test loading image 2 immediately
+const testImg = new Image();
+testImg.src = "assets/images/image-2.jpg";
+testImg.onload = () => console.log("✅ image-2.jpg EXISTS and loads!");
+testImg.onerror = () => console.log("❌ image-2.jpg FAILED to load!");
+
+
 // Still Confused on JavaScript. I had Claude help me with this part. I understand it a little bit better. But still need more practice.
 // ============================================
 // SECTION 1: Find Elements
@@ -27,7 +41,6 @@ const captions = [
   "MLK Day is a national day of service. Dr. King said, 'Life's most persistent question is: What are you doing for others?' Today, we honor his memory by serving our communities and standing up for justice."
 ];
 
-
 const imageFiles = [
   'image-1.jpg',  
   'image-2.jpg',
@@ -54,13 +67,14 @@ image.addEventListener('click', function() {
     
     title.textContent = titles[currentStep];
     caption.textContent = captions[currentStep];
-      image.src = `assets/images/${imageFiles[currentStep]}`;
+    image.src = `assets/images/${imageFiles[currentStep]}`;
     
     updateProgressDots();
     
   } else {
     caption.textContent = "Click to restart the story.";
     title.textContent = "The End";
+    image.src = `assets/images/image-1.jpg`;
     currentStep = -1;
   }
   
