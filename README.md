@@ -59,7 +59,23 @@ I think the biggest question that I have this week is going to be how interation
 - [x] The Behavioral Layer
 
 ### Week 1: Systems That Respond
-*Coming soon...*
+
+### What I Learned
+<!-- What concepts clicked for you? What was new? -->
+During Week-1 there was lots that I learned. There was ups and downs. I don't think really naything clicked this week. I leanred how to click on pictures and make them chnage to orientate to differnt pictures. That was uisng JavaScript. I alos leanred more about Design Systems and Deisgn tokens. Being able to use these things within my designs will help me so much and make me a better/efficent designer.​
+​
+### What Was Hard
+<!-- What frustrated you? What didn't make sense? -->
+I think after Week-1. There has been lots that has frustrated me. I'm still trying undertand JavaSrcipt and the funtions that can occure in JavaScript. I'm having a hard time understanding how the funtiosn work and how to make things works. Some of it is starting to make sense, but it going to take some time for me to understand. This is really what is frustating me at the moment and after Week-1.​
+​
+### How I Used AI
+<!-- Did you use Copilot, ChatGPT, etc.? How did it help or not help? -->
+Over Week-1 I used Claude Sonnet 4.5. There was lots of ways that it was helping me. I recenlt y have been helping me understand JavaScript and how it works. I've been using it to help fix and structure my code correclty. The buggest thing that I've been using it for was debugging and figuring out why the thing I created isn't working. I've been using CodePilot in GitHub to help me checking to make sur ethings are working and connected properly. This is how I've been using AI in Week-1.​
+​
+### What's Still Unclear
+<!-- What questions do you still have? What needs more practice? -->
+I think there is still a lot unclear. The biggets quetsion is what is the best way to approch understanding how what we did in our Behaviroal-Layer and Story-teller asignments on how it works and funtions. I think just trying to undertand JavaScript is what I need more pratice one. This is what is still unclear on Week-1.
+
 
 ### Week 2: Remembering Choices
 *Coming soon...*
