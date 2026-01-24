@@ -174,4 +174,3 @@ if (player === computer) {
   console.log("The computer won!");
 }
 ​
-​
