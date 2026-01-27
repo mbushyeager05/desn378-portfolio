@@ -1,0 +1,154 @@
+/* Design Tokens — Michael Bushyeager Portfolio */
+
+
+/* Collection name: primitives_colors */
+/* Mode: Primitive_Colors */
+:root {
+  --primary-900: #202821;
+  --primary-800: #2d3530;
+  --primary-700: #3a4540;
+  --primary-600: #4a5550;
+  --neutral-white: rgba(255, 255, 255, 0.00);
+  --neutral-gray-100: #f3f7f5;
+  --neutral-gray-200: #e5e9e7;
+  --neutral-gray-300: #d4d8d6;
+  --neutral-gray-400: #91a5a6;
+  --neutral-gray-500: #7b8c8d;
+  --neutral-gray-600: #6b7879;
+  --neutral-gray-700: #4a5556;
+  --neutral-gray-800: #2a3132;
+  --neutral-gray-900: #1a1f20;
+  --neutral-black: rgba(0, 0, 0, 0.01);
+  --accent-blue-300: #5cb8ff;
+  --accent-blue-400: #33aeff;
+  --accent-blue-500: #0098e0;
+  --accent-blue-600: #007bc4;
+  --accent-blue-700: #00629d;
+  --error-red-300: #ff8fa8;
+  --error-red-400: #fa5a7d;
+  --error-red-500: #fb382f;
+  --error-red-600: #d62e51;
+  --error-red-700: #b02343;
+}
+
+/* Collection name: semantic_colors */
+/* Mode: Mode: Light */
+:root {
+  --surface-primary: var(--neutral-gray-100);
+  --surface-card: var(--color-white--0_2%);
+  --text-primary: var(--neutral-gray-900);
+  --text-secondary: var(--neutral-gray-700);
+  --action-primary: var(--accent-blue-500);
+  --border-default: var(--neutral-gray-200);
+}
+
+/* Collection name: semantic_colors */
+/* Mode: Mode: Dark */
+:root {
+  --surface-primary: var(--neutral-gray-900);
+  --surface-card: var(--neutral-black);
+  --text-primary: var(--neutral-gray-100);
+  --text-secondary: var(--neutral-gray-400);
+  --action-primary: var(--accent-blue-400);
+  --border-default: var(--neutral-gray-600);
+}
+
+/* Collection name: gradient_colors */
+/* Mode: Mode 1 */
+:root {
+}
+
+/* Collection name: spacing */
+/* Mode: Mode 1 */
+:root {
+  --xs: 4;
+  --s: 8;
+  --m: 16;
+  --l: 20;
+  --xl: 32;
+  --xxl: 48;
+  --3xl: 64;
+  --4xl: 96;
+}
+
+/* Collection name: typography */
+:root {
+  --heading-h1: 48;
+  --heading-h2: 40;
+  --heading-h3: 30;
+  --heading-h4: 24;
+  --heading-h5: 20;
+  --heading-h6: 18;
+  --body-large: 24;
+  --body-medium: 16;
+  --body-small: 14;
+  --caption:-caption: 12;
+  --fonts-headings: Fredoka;
+  --fonts-subheadings: Fredoka;
+  --fonts-navigation: Fredoka;
+  --fonts-links: Inter;
+  --fonts-body: Inter;
+  --fonts-footer: Inter;
+  --fonts-script: Beau Rivage;
+}
+
+
+/* Collection name: mbushyeager05.github.io */
+/* Mode: Mode 1 */
+/* :root {
+  --stroke-weight-2: 2;
+  --color-azure-53: #3498db;
+  --font-family-font-1: Inter;
+  --font-size-24: 24;
+  --font-weight-600: 600;
+  --line-height-38_4: 38.400001525878906;
+  --color-grey-15: #222823;
+  --color-white-solid: #ffffff;
+  --font-family-font-2: Fredoka;
+  --font-size-16: 16;
+  --font-weight-400: 400;
+  --line-height-25_6: 25.600000381469727;
+  --color-grey-35: #575a5e;
+  --stroke-weight-1: 1;
+  --color-white--0_2%: rgba(255, 255, 255, 0.00);
+  --color-white--50%: rgba(255, 255, 255, 0.50);
+  --font-weight-700: 700;
+  --line-height-29_95: 29.950000762939453;
+  --line-height-22_4: 22.399999618530273;
+  --radius-525: 525;
+  --radius-225: 225;
+  --radius-300: 300;
+  --radius-675: 675;
+  --opacity-80: 80;
+  --color-azure-57: #8399a2;
+  --color-grey-94: #eef2f3;
+  --radius-595: 595;
+  --radius-255: 255;
+  --radius-340: 340;
+  --radius-765: 765;
+  --color-cyan-45: #2cb2ba;
+  --color-orange-58: #fbb92d;
+  --radius-665: 665;
+  --radius-285: 285;
+  --radius-380: 380;
+  --radius-855: 855;
+  --color-blue-25: #1a2766;
+  --color-red-39: #ae1b1e;
+  --color-orange-59: #fc9f32;
+  --item-spacing-m: 32;
+  --color-grey-96: #f4f7f5;
+  --width-1200: 1200;
+  --font-size-48: 48;
+  --line-height-76_8: 76.80000305175781;
+  --width-500: 500;
+  --line-height-28_16: 28.15999984741211;
+  --item-spacing-192: 192;
+  --width-3000: 3000;
+  --item-spacing--0_88: -0.875;
+  --line-height-31_68: 31.68000030517578;
+  --width-1000: 1000;
+  --line-height-51_2: 51.20000076293945;
+  --font-size-40: 40;
+  --line-height-64: 64;
+  --item-spacing--1: -1;
+} */
