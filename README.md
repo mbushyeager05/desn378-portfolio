@@ -78,7 +78,18 @@ I think there is still a lot unclear. The biggets quetsion is what is the best w
 
 
 ### Week 2: Remembering Choices
-*Coming soon...*
+​
+### What I Learned
+During week-2 I leanred deisgn variable within Figma. I learned how to use them and create them. Leanred and have little bit better of understanding of Design tokens. I staeted to apply them to my porfolio and how to switch light and dark mode. I leanred of the better wasy of creating a style guide, which will help me become a more efficent deisgner. I'm excited to strat uisng them within in CSS to make me a better designer/coder. This is what I learned within week-2.
+​
+### What Was Hard
+I think the hardest part for week-2 was figuring out and setting up variables within Figma and using them within the design. I struggled with applying differnt ways of changing the color with dark and light mode. But figured it out eventually. I'm still trying to figure out some of JavaScript but are slowly starting to undertsnad it. This is what was hard in week-2.
+​
+### How I Used AI
+How I ued AI in week-2 was in a couple of differnt ways. I used Claude Sonnet 4.5 to help me understand some more JavaScript. I asked to help with some of my Figma Variables and helping me with the naming of them for my project. I think Ai helped with the understanding this week especially with JavaScript. I have a better understanding and also a better undertsatnding how to name my Figma Variables in a more profesional way. This is how I used AI in week-2.
+​
+### What's Still Unclear
+The only thing that still unclear in week-2 is some of the things about JavaScript. I'm still havinga super hard time understanding it and figure out how to do some of it. I think I understadn queryselctor the most. Which is great. I ahve Web Development 1 which is helping with Code + Design 2 with Javasceipt. I don;t relaly have any quetsion for this week, but porboly will have some in week-3. These are still the things that are unclear in Week-2. 
 
 ---
 
