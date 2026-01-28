@@ -866,7 +866,7 @@ body {
   }
   
   li a {
-    font-size: calc(var(--caption:-caption) * 1px);
+    font-size: calc(var(--caption) * 1px);
     padding: 0.6rem 0.4rem;
     border-radius: 8px;
   }
@@ -977,7 +977,7 @@ body {
     width: calc(100% - 16px);
     padding: 15px;
     margin: 8px;
-    font-size: calc(var(--caption:-caption) * 1px);
+    font-size: calc(var(--caption) * 1px);
   }
   
   .shape-one,
@@ -997,7 +997,7 @@ body {
   }
   
   li a {
-    font-size: calc(var(--caption:-caption) * 1px);
+    font-size: calc(var(--caption) * 1px);
     padding: 0.55rem 0.3rem;
   }
   
