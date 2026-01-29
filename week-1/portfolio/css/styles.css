@@ -21,13 +21,23 @@
 }
 
 
+/* Light Mode Class */
+[data-theme="light"]{
+  --surface-primary: var(--neutral-gray-100);
+  --surface-card: var(--color-white--0_2%);
+  --text-primary: var(--neutral-gray-900);
+  --text-secondary: var(--neutral-gray-700);
+  --action-primary: var(--accent-blue-500);
+  --border-default: var(--neutral-gray-200);
+}
+
 /* Dark Mode Class */
-body.dark {
-    --color-background: var(--neutral-gray-900);
-    --color-text: var(--neutral-gray-100);
-    --color-accent: var(--accent-blue-400);
-    --color-secondary: var(--neutral-gray-400);
-    --color-error: var(--error-red-400);
+[data-theme="dark"]{
+    --surface-primary: var(--neutral-gray-900);
+    --surface-card: var(--color-white--0_2%);
+    --text-primary: var(--neutral-gray-100);
+    --text-secondary: var(--neutral-gray-400);
+    --action-primary: var(--accent-blue-400);
     --border-default: var(--neutral-gray-200);
 }
 

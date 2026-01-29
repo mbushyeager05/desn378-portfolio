@@ -1,10 +1,17 @@
-// Step 1: Find the button
-// What selector goes here? Look at your HTML — what class is on the button?
-const toggle = document.querySelector('.theme-toggle');
+// Step 1: Toggle between both classes
+const toggle = document.querySelector(".theme-toggle");
 
-// Step 2: Listen for clicks
-toggle.addEventListener('click', function() {
-  // Step 3: Toggle the dark class on body
-  // What class are we toggling? Look at your CSS — what class changes the colors?
-  document.body.classList.toggle('dark');
+
+// Toggle the theme state
+toggle.addEventListener("click", function () {
+  const currentTheme = document.documentElement.dataset.theme;
+
+  let newTheme;
+  if (currentTheme === "dark") {
+    newTheme = "light";
+  } else {
+    newTheme = "dark";
+  }
+  document.documentElement.dataset.theme = newTheme;
+  
 });
