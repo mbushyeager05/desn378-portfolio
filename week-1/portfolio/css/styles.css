@@ -52,8 +52,8 @@
 
 body {
     font-family: var(--font-body);
-    color: var(--color-text);
-    background-color: var(--color-background);
+    color: var(--text-primary);
+    background-color: var(--surface-primary);
     line-height: 1.6;
 }
 
@@ -88,7 +88,7 @@ nav ul {
 li a {
     text-decoration: none;
     font-size: calc(var(--body-large) * 1px);
-    color: var(--color-text);
+    color: var(--text-primary);
     font-weight: var(--font-weight-600);
     transition: color 0.3s ease;
 }
@@ -100,7 +100,7 @@ li a:hover {
 h1 {
     font-family: var(--font-heading);
     font-size: calc(var(--heading-h1) * 1px);
-    color: var(--color-text);
+    color: var(--text-primary);
     text-align: center;
     justify-content: center;
     width: 720px;
@@ -190,7 +190,7 @@ h1 {
     font-size: calc(var(--body-medium) * 1px);
     line-height: 1.4;
     padding: 0 1.5rem 1rem;
-    color: var(--color-text);
+    color: var(--text-primary);
     flex-grow: 1;  
 }
 
@@ -295,7 +295,7 @@ main {
     text-align: center;
     padding: 1rem 30px; /* Fixed - you had conflicting padding values */
     font-size: calc(var(--body-large) * 1px);
-    color: var(--color-text);
+    color: var(--text-primary);
     font-weight: var(--font-weight-600);
     text-decoration: none;
     /* border: 2px solid var(--color-accent); */
