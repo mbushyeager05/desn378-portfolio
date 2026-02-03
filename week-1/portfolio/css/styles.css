@@ -128,7 +128,7 @@ li a:hover {
 
 .theme-toggle-container {
   position: fixed;
-  top: 20px;
+  top: 0px;
   right: 40px;
   z-index: 110;
 }
