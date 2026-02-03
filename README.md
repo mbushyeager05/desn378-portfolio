@@ -91,6 +91,24 @@ How I ued AI in week-2 was in a couple of differnt ways. I used Claude Sonnet 4.
 ### What's Still Unclear
 The only thing that still unclear in week-2 is some of the things about JavaScript. I'm still havinga super hard time understanding it and figure out how to do some of it. I think I understadn queryselctor the most. Which is great. I ahve Web Development 1 which is helping with Code + Design 2 with Javasceipt. I don;t relaly have any quetsion for this week, but porboly will have some in week-3. These are still the things that are unclear in Week-2. 
 
+## Week 3
+​
+### What I Learned
+<!-- Design tokens, state vs appearance, system preference, persistence -->
+What I learned duirng week-3 was a lot! I think the biggets thing that I learned was how to impliment system preferences into my Portfolio Site. I was able to apply it to the project and updaet the JAvaScript to have it stay on Dark or light mode when you refresh the page. This is where I Would say JavaScript is starting to lcik a little bit more. But still there is lots to learn. Another thing that I Learned was Design Token which is very useful to know. I was able to apply the design tokens to my current project. I also learned how to have persistance within the sote just incase something crashes or failes. So it will be able to haev the same settings from before. Lastly, what I learned from week-3 was the state vs appearance. Which is state telling the data to change this happens within the JavaScript and then appearance happens and is target from the CSS styling. This is what I learned within week-3. ​
+​
+### What Was Hard
+<!-- What broke, confused you, or took time to understand -->
+What was hard during week-3 was trying to understand how to apply the system preference. I had a hard time figuring out how to apply it to JavaScript. What I also found hard this week was adding the "date-theme: light:" and "data-theme: dark;" I struggled to understadn it at first. But after applying it to the project. I was abel to haev a better understanding. I ran into some issues with the the toggle theme. When I added the "data-theme," to both HTML and CSS the button wasn't working. I tried several differnt ways but nothing was working. At first I forgot to add the "data-theme," in the HTML but that didn't make any difference. After a couple of days I had an issues within my CSS and my variables which wasn't letting the button work and toggle light and dark themes. This was what was hard in week-3. ​
+​
+### How I Used AI
+<!-- Copilot, ChatGPT, etc. What you asked and why -->
+How I ued AI in week-3 was in a couple of differnt ways. I used Claude Sonnet 4.5 to help me understand some more JavaScript. I had to help me with the issue with the toggle and why the toggle wasn't letting me trun the page theme from light to dark. It said there was an issue with CSS. I had Claude Sonnet 4.5 explin to me what was the issue and what I could have done differntly. I think Claude Sonnet 4.5 really has helped me with eosme of the ismple issues that haev occured or helped me understand something that was confusing. The other way I used Ai was with Co-Pilot in Github I had to fix the errors and fixed the issues iwthin my JavaScript. I had it fix the Syncing issues within GitHub too. This is how I used AI within week-3​
+​
+### What's Still Unclear
+<!-- Questions that remain -->
+The only quetsion that I have or is still unclear is some of the JavaScript items. I think I need a better understanding on how some of it works. Other than that I really don't have any other question. This is what I had questions within week-3.
+
 ---
 
 ## Quick Links
