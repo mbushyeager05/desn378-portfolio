@@ -82,4 +82,57 @@ For my portfolio, I pursued a differnt way of exploring with CSS and Styles. I w
 
 ---
 
+
+## New Edition of Portfolio
+
+Updated on Febuary 4th 2026
+
+Above is the Old README.md. That was trasnfered over from another GitHUb Reposiory. Below is the what has been done and added to the exsiting porfolio. 
+
+# Signal & State - Portfolio Theme System
+
+**Live Site:** [https://mbushyeager05.github.io/desn378-portfolio/week-1/portfolio/index.html]
+
+## Token System
+
+This project uses CSS custom properties (variables) organized differnt categories:
+
+### Colors
+- **color-background:** var(--neutral-gray-100); - Background colors
+- **color-text:** var(--neutral-gray-900);  - Typography colors
+- **color-accent:** var(--accent-blue-500); - Interactive elements
+- **color-secondary:** var(--neutral-gray-400); - Interactive elements
+- **color-error:** var(--error-red-500); - Errors
+- **border-default:** rgba(255, 255, 255, 0.7); - Dividers and outlines
+
+
+### Typography
+
+- **font-heading:** var(--fonts-headings), sans-serif; -Heading
+- **font-body:** var(--fonts-body), sans-serif;  -Body
+- **font-script:** var(--fonts-script);  -Script
+
+
+### Spacing
+- **xs:** 4;
+- **s:** 8;
+- **m:** 16;
+- **l:** 20;
+- **xl:** 32;
+- **xxl:** 48;
+- **3xl:** 64;
+- **4xl:** 96;
+
+## Design Decisions
+
+### Dark Mode Approach
+Rather than simply inverting colors, I adjusted accent colors for better contrast on dark backgrounds. The accent blue is lighter in dark mode to maintain readability.
+
+### Theme Toggle UI
+The Theme Toggle has three differnt option to be able to set whihc preference you like. Those include Light, Dark, and OS System. Whne you hover over the button, the menu open to show these options. The buttomn goes along with the theme of glass look. 
+
+## Resources Used
+
+ - **Claude Sonnet 4.5**
+
 <sub>© 2025 Michael Bushyeager. Built for DESN368 at Eastern Washington University.</sub>
