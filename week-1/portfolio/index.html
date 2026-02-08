@@ -31,7 +31,140 @@
     
 </header>
 <div class="theme-toggle-container">
-    <button class="theme-toggle" type="button">Toggle Theme</button>
+    <button id="theme_button">Theme</button>
+
+<div id="color-theme-drop-down">
+  <ul id="color-theme-drop-list">
+    <li class="color-theme-option"><button class="theme_options" type="button" data-theme="light"><svg
+  width="50"
+  height="50"
+  viewBox="-100 -100 200 200"
+>
+  
+  <path
+    d="
+      M -30 20
+      A 50 50 0 1 1 30 20
+      Q 20 30 20 50
+      L -20 50
+      Q -20 30 -30 20"
+    fill="#FFF07C"
+    stroke="black"
+    stroke-width="10"
+    stroke-linejoin="round"
+  />
+  
+    <path
+    d="
+      M -30 -20
+      A 30 30 0 0 1 0 -50"
+    fill="none"
+    stroke="black"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+  
+    <path
+    d="
+      M -18 62
+      L 18 62
+      M -15 75
+      L 15 75"
+    stroke="black"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+</svg>Light</button></li>
+  <li class="color-theme-option"><button class="theme_options" type="button" data-theme="dark"><svg
+  width="50"
+  height="50"
+  viewBox="-100 -100 200 200"
+>
+  
+  <path
+    d="
+      M -30 20
+      A 50 50 0 1 1 30 20
+      Q 20 30 20 50
+      L -20 50
+      Q -20 30 -30 20"
+    fill="#A3A9AA"
+    stroke="black"
+    stroke-width="10"
+    stroke-linejoin="round"
+  />
+  
+    <path
+    d="
+      M -30 -20
+      A 30 30 0 0 1 0 -50"
+    fill="none"
+    stroke="black"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+  
+    <path
+    d="
+      M -18 62
+      L 18 62
+      M -15 75
+      L 15 75"
+    stroke="black"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+</svg>Dark</button></li>
+  <li class="color-theme-option"><button class="theme_options" type="button" data-theme="system"><svg
+  width="50"
+  height="50"
+  viewBox="-100 -100 200 200"
+>
+  
+   <defs>
+    <linearGradient id="bulbGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="50%" stop-color="#FFF07C" />
+      <stop offset="50%" stop-color="#A3A9AA" />
+    </linearGradient>
+  </defs>
+  
+  <path
+    d="
+      M -30 20
+      A 50 50 0 1 1 30 20
+      Q 20 30 20 50
+      L -20 50
+      Q -20 30 -30 20"
+     fill="url(#bulbGradient)"
+    stroke="black"
+    stroke-width="10"
+    stroke-linejoin="round"
+  />
+  
+    <path
+    d="
+      M -30 -20
+      A 30 30 0 0 1 0 -50"
+    fill="none"
+    stroke="black"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+  
+    <path
+    d="
+      M -18 62
+      L 18 62
+      M -15 75
+      L 15 75"
+    stroke="black"
+    stroke-width="10"
+    stroke-linecap="round"
+  />
+</svg>OS Default</button></li>
+  </ul>
+</div>
+    <!-- <button class="theme-toggle" type="button">Toggle Theme</button> -->
 </div>
 </div>
 
