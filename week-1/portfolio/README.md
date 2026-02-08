@@ -136,3 +136,28 @@ The Theme Toggle has three differnt option to be able to set whihc preference yo
  - **Claude Sonnet 4.5**
 
 <sub>© 2025 Michael Bushyeager. Built for DESN368 at Eastern Washington University.</sub>
+
+
+## Design of Theme Toggle 
+
+
+## Anatomy check
+
+- What does viewBox="0 0 24 24" control?
+
+- Why is currentColor more flexible than hard coded colors?
+
+- If you used path, what does the d attribute describe?
+
+
+## Reflection 
+
+
+## Icon design
+Why does your System icon look the way it does? What idea is it communicating?
+
+## System logic
+Explain how your code handles System differently from Light and Dark.
+
+## Unexpected learning
+One thing that surprised you about SVGs or dropdown behavior.
