@@ -171,4 +171,4 @@ System mode operates differently from Light and Dark modes because it chnaged th
 ## Unexpected learning
 One thing that surprised you about SVGs or dropdown behavior.
 
-I think one thing that suprised me about SVGs or dropdown behavior is how overhwleming it can be to look at SVG design. I think the path SVG is struggled the most with. The dropdown was pretty fun to create and there was no suprises. I think there was lots of suprises that happend with SVGs. This is what suprised me about SVGs or dropdown behavior.
+I think one thing that suprised me about SVGs or dropdown behavior is how overwhelming it can be to look at SVG design. I think the path SVG is struggled the most with. I think learning how to use corrdinates with SVGs is the huge learning curve compared to anything else I have learned in code. The dropdown was pretty fun to create and there was no suprises. I think there was lots of suprises that happend with SVGs. This is what suprised me about SVGs or dropdown behavior.
