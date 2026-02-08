@@ -144,10 +144,14 @@ The Theme Toggle has three differnt option to be able to set whihc preference yo
 ## Anatomy check
 
 - What does viewBox="0 0 24 24" control?
+The viewBox defines the coordinate system and aspect ratio of the SVG canvas. The four numbers are the min-x, min-y, height, and width. This means that viewBox="0 0 24 24" is 24 height and 24 width.
 
 - Why is currentColor more flexible than hard coded colors?
+Why curreentColor is more flexible than hard coded colors is because you can hhange icon colors with CSS without editing SVG code.
 
 - If you used path, what does the d attribute describe?
+
+The d attribute contains drawing commands that define the shape that you are wanting draw/design.
 
 
 ## Reflection 
@@ -156,8 +160,15 @@ The Theme Toggle has three differnt option to be able to set whihc preference yo
 ## Icon design
 Why does your System icon look the way it does? What idea is it communicating?
 
+Why my System Icon look that is becuase I wnated to experiment with SVG and make them feel fun. I don't really have a theme for my portfolio, so I wanted to see what I could try and make in SVG. I think it was fun to figure out differnt things to created with SVGs. I wanted to have three light bulbs on ethat was full yellow, one that was dark, and then one that was half and half. I saw the requirments and then wanted to experiment with SVGs. I had Cluade Sonnet 4.5 help with issues that occured while building the SVGs. I dead that is communicating was the lightbulb is meant to bright for light mode, the candle is supposed to be dim for dark mode, and then for a toggle switch for OS System mode. 
+
 ## System logic
 Explain how your code handles System differently from Light and Dark.
 
+System mode operates differently from Light and Dark modes because it chnaged theme control to the user's operating system. When a user selects Light or Dark mode, the application applies a fixed theme that remains constant regardless of external factors. Even when you referesh the page, it stays on what is selected. h Light and Dark modes are tge user choices that is really persistent until manually changed, while System mode creates a the  relationship between the application and the operating system. This is how how my code handles System  differently from Light and Dark.
+
+
 ## Unexpected learning
 One thing that surprised you about SVGs or dropdown behavior.
+
+I think one thing that suprised me about SVGs or dropdown behavior is how overhwleming it can be to look at SVG design. I think the path SVG is struggled the most with. The dropdown was pretty fun to create and there was no suprises. I think there was lots of suprises that happend with SVGs. This is what suprised me about SVGs or dropdown behavior.

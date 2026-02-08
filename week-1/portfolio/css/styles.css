@@ -258,6 +258,44 @@ border-radius: 20px;
   box-shadow: 0 0 0 2px color-mix(in srgb, var(--neutral-gray-100) 60%, transparent);
 }
 
+.theme-icon {
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.theme-icon--light .theme-icon__sun {
+  fill: #FFF07C;
+  stroke: #000000;
+}
+
+.theme-icon--light .theme-icon__sunray {
+  stroke: #000000;
+}
+
+.theme-icon--dark .theme-icon__candle {
+  fill: #F5F9E9;
+  stroke: #000000;
+}
+
+.theme-icon--dark .theme-icon__wick {
+  stroke: #000000;
+}
+
+.theme-icon--dark .theme-icon__flame {
+  fill: #FDD835;
+  stroke: #000000;
+}
+
+.theme-icon--system .theme-icon__toggle {
+  fill: #A3A9AA;
+  stroke: #000000;
+}
+
+.theme-icon--system .theme-icon__knob {
+  fill: #FFFFFF;
+  stroke: #000000;
+}
+
 
 
 
