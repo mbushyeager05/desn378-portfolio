@@ -109,6 +109,24 @@ How I ued AI in week-3 was in a couple of differnt ways. I used Claude Sonnet 4.
 <!-- Questions that remain -->
 The only quetsion that I have or is still unclear is some of the JavaScript items. I think I need a better understanding on how some of it works. Other than that I really don't have any other question. This is what I had questions within week-3.
 
+
+## Week 4
+​
+### What I Learned
+<!-- SVG's, dropdown, svg paths -->
+There was a lot that I learned for week-4. I think the biggest thing that I learned was SVGs. I hink this was someghing that I wanted to leanred for a while now and undertsnad it. I leanred how to create SVGs and the differnt ones that you can create, such as rectangles, circles, polygons, and lines. ​I think learning these tools will be able to have effective icons and be able to understand how Icons are made. I learned how use the SVG paths and that was a learningc urve and still leanring at the moment. I also learned how to design a dropdown and leanred how it functions. The biggest part was tying it all togetehr with JavaScript. I think also using CSS to hude the menu dropdown was a challange but leanred how to do it. This is what I learned in week-4.
+​
+### What Was Hard
+<!-- What broke, confused you, or took time to understand -->
+There was lots of ups and downs within week-4. What broke this week was the button and how the JavaSCript opened the button to select the theme that you wanted fro, "light, dark, and system." I think this was one of the biggest challenges and what broke this week. What confused me this week was the SVG paths. I think this was what was challenging this week and I sturggled a lot with it. I think understading each coordinate and how it works. It took forever for me undertand and I'll trying to work on it. This was what really confusing this week. What took time to understand in week-4 was wrking with Javscript and tying in the button theme switch to chnaeg the theme of the page "light, dark, and system." This was hard to understand. I was rushing which didn't help. I need to slow down and take my time. ​
+​
+### How I Used AI
+<!-- Copilot, ChatGPT, etc. What you asked and why -->
+Within week-4 I used Cluade Sonnet 4.5-4.6. This helped me a lot this week, when I stuck or confused. I had it help me explain the issue sthat were happening with my theme sqitcher button "light, dark, and system." It helped with the issue that were causing it not to work. Some of those issues were naming issues and that iw as missing something inside my javascript. I think that was super useful. Whem I was short on time or was getting frustrated. I also used Claude Sonnet 4.5-4.6 to help me learn SVGs and helped me with using the SVG path. I was really strugglinga nd it helped me with creating SVGs and what are the components and how the coordiantes work within a SVG path. I used Claude Sonnet 4.5-4.6 a lot this week to help me learn and fix the issues. i also used GitHubs Co-Pilot to clean up the code or help me with issues inside the code. Such as with adding something to the theme toggle switch "light, dark, and system." These were the ways that I used Claude Sonnet 4.5-4.6 and GitHub Co-Pilot within week-4. ​
+​
+### What's Still Unclear
+<!-- Questions that remain -->
+For week-4 I don't think I have any questions this week. the only thing was still have a better understanding of JavaScript. I think I'm still questoning about how some of the functions work and how they connect with HTML and CSS. Such as how the theme chnager/button works "light, dark, and system." I get overhwlemed whne looking all the differnt funtiosn that happen within JvaScript. Need to do better at commenting in JavaScript. This is my quetsion and concerns within week-4.
 ---
 
 ## Quick Links
