@@ -1,3 +1,5 @@
+@import url('tanker.css');
+
 /* Collection name: primitives_colors */
 /* Mode: Mode 1 */
 :root {
@@ -33,36 +35,53 @@
 /* Collection name: typography */
 /* Mode: Mode 1 */
 :root {
-  --heading-h1: 64;
-  --heading-h2: 48;
-  --heading-h3: 40;
-  --heading-h4: 48;
-  --heading-h5: 32;
-  --heading-h6: 20;
-  --body-xxl: 24;
-  --body-xl: 18;
-  --body-l: 16;
-  --body-m: 14;
-  --body-s: 12;
-  --body-xs: 8;
-  --font-heading: Tanker;
-  --font-subheadings: Tanker;
-  --font-body: Satoshi-Medium;
-  --font-captions: Satoshi-Light;
-  --font-footer: Satoshi-Regular;
+  --heading-h1: 4rem;
+  --heading-h2: 3.5rem;
+  --heading-h3: 1.5rem;
+  --heading-h4: 1.25rem;
+  --heading-h5: 2rem;
+  --heading-h6: 1.25rem;
+  --body-xxl: 1.5rem;
+  --body-xl: 1.125rem;
+  --body-l: 1rem;
+  --body-m: 0.875rem;
+  --body-s: 0.75rem;
+  --body-xs: 0.5rem;
+  --font-heading: 'Tanker-Regular', 'Impact', 'Arial Black', sans-serif;
+  --font-subheadings: 'Tanker-Regular', 'Impact', 'Arial Black', sans-serif;
+  --font-body: 'Satoshi-Medium', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-captions: 'Satoshi-Light', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-footer: 'Satoshi-Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
 /* Collection name: spacing */
 /* Mode: Mode 1 */
 :root {
-  --xs: 4;
-  --s: 8;
-  --m: 16;
-  --l: 20;
-  --xl: 24;
-  --xxl: 28;
-  --3xl: 32;
-  --4xl: 36;
+  --xs: 0.25rem;
+  --s: 0.5rem;
+  --m: 1rem;
+  --l: 1.25rem;
+  --xl: 1.5rem;
+  --xxl: 1.75rem;
+  --3xl: 2rem;
+  --4xl: 2.25rem;
+}
+
+
+/* Collection name: semantic_colors */
+/* Mode: Mode: Dark */
+:root {
+  --surface-colors-surface-primary: var(--gray-900);
+  --text-colors-text-primary: var(--gray-100);
+  --accent-colors-accent-primary: var(--accent-500);
+  --surface-colors-surface-secondary: var(--gray-800);
+  --surface-colors-surface-code: var(--gray-950);
+  --text-colors-text-secondary: var(--gray-300);
+  --text-colors-text-on-dark: var(--gray-100);
+  --accent-colors-accent-highlight: var(--accent-400);
+  --section-colors-forest-primary: var(--green-700);
+  --section-colors-ocean-primary: var(--blue-600);
+  --section-colors-sand-primary: var(--sand-600);
 }
 
 /* Collection name: semantic_colors */
@@ -74,22 +93,6 @@
   --surface-colors-surface-secondary: var(--gray-100);
   --surface-colors-surface-code: var(--gray-900);
   --text-colors-text-secondary: var(--gray-700);
-  --text-colors-text-on-dark: var(--gray-100);
-  --accent-colors-accent-highlight: var(--accent-400);
-  --section-colors-forest-primary: var(--green-700);
-  --section-colors-ocean-primary: var(--blue-600);
-  --section-colors-sand-primary: var(--sand-600);
-}
-
-/* Collection name: semantic_colors */
-/* Mode: Mode: Dark */
-:root {
-  --surface-colors-surface-primary: var(--gray-900);
-  --text-colors-text-primary: var(--gray-100);
-  --accent-colors-accent-primary: var(--accent-500);
-  --surface-colors-surface-secondary: var(--gray-800);
-  --surface-colors-surface-code: var(--gray-950);
-  --text-colors-text-secondary: var(--gray-300);
   --text-colors-text-on-dark: var(--gray-100);
   --accent-colors-accent-highlight: var(--accent-400);
   --section-colors-forest-primary: var(--green-700);
